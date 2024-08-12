@@ -1,0 +1,17 @@
+
+.color{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+/* .button{
+    color: rgb(37, 37, 207);
+} */
+
+.container{
+    height: auto;
+}
+
+.containerF{
+    background-color: #f5f2f2b1;
+}

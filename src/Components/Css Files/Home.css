@@ -1,0 +1,19 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+/* Home.css or another CSS file */
+.carousel {
+    max-height: 500px; /* Adjust the height as needed */
+    overflow: hidden; /* Hide overflow to maintain aspect ratio */
+  }
+  
+  .carousel-inner img {
+    width: 100%; /* Make images responsive */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .carousel-item {
+    height: 100%; /* Make sure carousel items take up full height */
+  }
+  
